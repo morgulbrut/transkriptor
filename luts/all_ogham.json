@@ -1,1 +1,35 @@
-{"SPACE": "\u1680", " ": "\u1680", "BEITH": "\u1681", "LUIS": "\u1682", "FERN": "\u1683", "SAIL": "\u1684", "NION": "\u1685", "UATH": "\u1686", "DAIR": "\u1687", "TINNE": "\u1688", "COLL": "\u1689", "CEIRT": "\u168a", "MUIN": "\u168b", "GORT": "\u168c", "NGEADAL": "\u168d", "STRAIF": "\u168e", "RUIS": "\u168f", "AILM": "\u1690", "ONN": "\u1691", "UR": "\u1692", "EADHADH": "\u1693", "IODHADH": "\u1694", "EABHADH": "\u1695", "OR": "\u1696", "UILLEANN": "\u1697", "IFIN": "\u1698", "EAMHANCHOLL": "\u1699", "PEITH": "\u169a", "SRT": "\u169b", "STP": "\u169c"}
+{
+    "glyphes": {
+        " ": " ",
+        "AILM": "ᚐ",
+        "BEITH": "ᚁ",
+        "CEIRT": "ᚊ",
+        "COLL": "ᚉ",
+        "DAIR": "ᚇ",
+        "EABHADH": "ᚕ",
+        "EADHADH": "ᚓ",
+        "EAMHANCHOLL": "ᚙ",
+        "FERN": "ᚃ",
+        "GORT": "ᚌ",
+        "IFIN": "ᚘ",
+        "IODHADH": "ᚔ",
+        "LUIS": "ᚂ",
+        "MUIN": "ᚋ",
+        "NGEADAL": "ᚍ",
+        "NION": "ᚅ",
+        "ONN": "ᚑ",
+        "OR": "ᚖ",
+        "PEITH": "ᚚ",
+        "RUIS": "ᚏ",
+        "SAIL": "ᚄ",
+        "SPACE": " ",
+        "SRT": "᚛",
+        "STP": "᚜",
+        "STRAIF": "ᚎ",
+        "TINNE": "ᚈ",
+        "UATH": "ᚆ",
+        "UILLEANN": "ᚗ",
+        "UR": "ᚒ"
+    },
+    "substitutions": {}
+}
